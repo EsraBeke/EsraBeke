@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Esra Beke</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+<h3 align="center">I am a software engineering student in Istanbul</h3>
 
 - 🔭 I’m currently working on **improving my programming skills.**
 
