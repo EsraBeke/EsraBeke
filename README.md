@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **improving my programming skills.**
 
-- 🌱 I’m currently learning **Flutter,Dart,React,MySql,Firebase**
+- 🌱 I’m currently learning **Flutter,Kotlin,React,MySql,Firebase**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/esra-beke6102](https://www.linkedin.com/in/esra-beke6102)
 
-- 💬 Ask me about **Flutter,html,css,javascript**
+- 💬 Ask me about **Kotlin,html,css,javascript**
 
 - 📫 How to reach me **esrabeke2078@gmail.com**
 
